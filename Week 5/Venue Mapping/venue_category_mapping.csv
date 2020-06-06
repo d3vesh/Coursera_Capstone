@@ -1,0 +1,268 @@
+﻿Venue Category,Venue Mapping
+Accessories Store,stores_daily_conveniences
+Afghan Restaurant,regular_restaurants
+African Restaurant,regular_restaurants
+Airport Food Court,transport_vicinity
+Airport Lounge,transport_vicinity
+Airport Service,transport_vicinity
+Airport Terminal,transport_vicinity
+American Restaurant,regular_restaurants
+Amphitheater,arts_culture_recreation
+Antique Shop,shopping
+Aquarium,nature_view
+Arcade,sports_fitness
+Art Gallery,arts_culture_recreation
+Arts & Crafts Store,arts_culture_recreation
+Arts & Entertainment,arts_culture_recreation
+Asian Restaurant,regular_restaurants
+Athletics & Sports,sports_fitness
+ATM,stores_daily_conveniences
+Auto Dealership,stores_daily_conveniences
+Auto Workshop,stores_daily_conveniences
+Bagel Shop,cafe_fastfoods
+Bakery,stores_daily_conveniences
+Bank,stores_daily_conveniences
+Bar,bars_nightlife
+Baseball Field,sports_fitness
+Basketball Court,sports_fitness
+BBQ Joint,cuisine_restaurants
+Beach,nature_view
+Bed & Breakfast,tourist_interest
+Beer Bar,bars_nightlife
+Beer Garden,bars_nightlife
+Bengali Restaurant,regular_restaurants
+Bike Rental / Bike Share,stores_daily_conveniences
+Bistro,bars_nightlife
+Boat or Ferry,nature_view
+Bookstore,stores_daily_conveniences
+Boutique,shopping
+Bowling Alley,sports_fitness
+Brazilian Restaurant,cuisine_restaurants
+Breakfast Spot,regular_restaurants
+Brewery,bars_nightlife
+Building,kids_family_residential
+Burger Joint,cafe_fastfoods
+Burrito Place,regular_restaurants
+Bus Station,transport_vicinity
+Bus Stop,transport_vicinity
+Business Center,business_hub
+Business Service,business_hub
+Café,cafe_fastfoods
+Cafeteria,cafe_fastfoods
+Camera Store,stores_daily_conveniences
+Campground,nature_view
+Candy Store,stores_daily_conveniences
+Chaat Place,cafe_fastfoods
+Cheese Shop,stores_daily_conveniences
+Chinese Restaurant,regular_restaurants
+City,kids_family_residential
+Clothing Store,stores_daily_conveniences
+Club House,sports_fitness
+Cocktail Bar,bars_nightlife
+Coffee Shop,cafe_fastfoods
+College Academic Building,education_colleges
+College Auditorium,education_colleges
+College Gym,education_colleges
+Comedy Club,arts_culture_recreation
+Comfort Food Restaurant,regular_restaurants
+Concert Hall,arts_culture_recreation
+Convenience Store,stores_daily_conveniences
+Convention Center,business_hub
+Cosmetics Shop,stores_daily_conveniences
+Coworking Space,business_hub
+Creperie,cafe_fastfoods
+Cricket Ground,sports_fitness
+Cupcake Shop,cafe_fastfoods
+Dance Studio,sports_fitness
+Deli / Bodega,cuisine_restaurants
+Department Store,stores_daily_conveniences
+Design Studio,arts_culture_recreation
+Dessert Shop,cafe_fastfoods
+Dhaba,regular_restaurants
+Dim Sum Restaurant,regular_restaurants
+Diner,cuisine_restaurants
+Dog Run,kids_family_residential
+Donut Shop,cafe_fastfoods
+Dumpling Restaurant,regular_restaurants
+Duty-free Shop,transport_vicinity
+Eastern European Restaurant,cuisine_restaurants
+Electronics Store,stores_daily_conveniences
+English Restaurant,cuisine_restaurants
+Event Space,arts_culture_recreation
+Factory,business_hub
+Falafel Restaurant,regular_restaurants
+Farm,nature_view
+Farmers Market,stores_daily_conveniences
+Fast Food Restaurant,regular_restaurants
+Field,sports_fitness
+Fish & Chips Shop,stores_daily_conveniences
+Fish Market,stores_daily_conveniences
+Flea Market,stores_daily_conveniences
+Flower Shop,stores_daily_conveniences
+Food,regular_restaurants
+Food & Drink Shop,bars_nightlife
+Food Court,regular_restaurants
+Food Truck,cafe_fastfoods
+French Restaurant,cuisine_restaurants
+Fried Chicken Joint,cafe_fastfoods
+Frozen Yogurt Shop,cafe_fastfoods
+Furniture / Home Store,shopping
+Gaming Cafe,kids_family_residential
+Garden,nature_view
+Garden Center,nature_view
+Gas Station,transport_vicinity
+Gastropub,bars_nightlife
+General Entertainment,arts_culture_recreation
+German Restaurant,cuisine_restaurants
+Gift Shop,stores_daily_conveniences
+Gluten-free Restaurant,regular_restaurants
+Goan Restaurant,regular_restaurants
+Golf Course,sports_fitness
+Gourmet Shop,cuisine_restaurants
+Government Building,business_hub
+Greek Restaurant,cuisine_restaurants
+Grocery Store,stores_daily_conveniences
+Gujarati Restaurant,regular_restaurants
+Gym,sports_fitness
+Gym / Fitness Center,sports_fitness
+Gym Pool,sports_fitness
+Harbor / Marina,nature_view
+Hawaiian Restaurant,cuisine_restaurants
+Health & Beauty Service,kids_family_residential
+Health Food Store,stores_daily_conveniences
+Historic Site,arts_culture_recreation
+History Museum,tourist_interest
+Hockey Arena,sports_fitness
+Hookah Bar,bars_nightlife
+Hostel,tourist_interest
+Hot Dog Joint,cafe_fastfoods
+Hotel,tourist_interest
+Hotel Bar,bars_nightlife
+Hotel Pool,tourist_interest
+Ice Cream Shop,cafe_fastfoods
+Indian Chinese Restaurant,regular_restaurants
+Indian Restaurant,regular_restaurants
+Indian Sweet Shop,regular_restaurants
+Indie Movie Theater,arts_culture_recreation
+Indoor Play Area,sports_fitness
+Intersection,kids_family_residential
+Irani Cafe,cafe_fastfoods
+Italian Restaurant,cuisine_restaurants
+Japanese Restaurant,regular_restaurants
+Jewelry Store,stores_daily_conveniences
+Juice Bar,cafe_fastfoods
+Karaoke Bar,bars_nightlife
+Kids Store,kids_family_residential
+Lake,nature_view
+Light Rail Station,transport_vicinity
+Lighthouse,nature_view
+Liquor Store,stores_daily_conveniences
+Lounge,bars_nightlife
+Maharashtrian Restaurant,regular_restaurants
+Market,stores_daily_conveniences
+Martial Arts Dojo,arts_culture_recreation
+Mediterranean Restaurant,cuisine_restaurants
+Men's Store,stores_daily_conveniences
+Metro Station,transport_vicinity
+Mexican Restaurant,regular_restaurants
+Middle Eastern Restaurant,cuisine_restaurants
+Miscellaneous Shop,stores_daily_conveniences
+Mobile Phone Shop,stores_daily_conveniences
+Modern European Restaurant,cuisine_restaurants
+Molecular Gastronomy Restaurant,regular_restaurants
+Monument / Landmark,tourist_interest
+Moroccan Restaurant,cuisine_restaurants
+Motel,tourist_interest
+Motorcycle Shop,stores_daily_conveniences
+Mountain,nature_view
+Movie Theater,arts_culture_recreation
+Moving Target,sports_fitness
+Mughlai Restaurant,regular_restaurants
+Multicuisine Indian Restaurant,regular_restaurants
+Multiplex,arts_culture_recreation
+Music Store,arts_culture_recreation
+Music Venue,arts_culture_recreation
+Neighborhood,kids_family_residential
+New American Restaurant,cuisine_restaurants
+Nightclub,bars_nightlife
+Nightlife Spot,bars_nightlife
+Noodle House,regular_restaurants
+North Indian Restaurant,regular_restaurants
+Office,business_hub
+Opera House,stores_daily_conveniences
+Other Great Outdoors,nature_view
+Outdoor Sculpture,arts_culture_recreation
+Outdoors & Recreation,nature_view
+Paper / Office Supplies Store,stores_daily_conveniences
+Park,kids_family_residential
+Parsi Restaurant,cuisine_restaurants
+Performing Arts Venue,arts_culture_recreation
+Pet Store,stores_daily_conveniences
+Pharmacy,stores_daily_conveniences
+Pier,nature_view
+Pizza Place,cafe_fastfoods
+Planetarium,tourist_interest
+Platform,transport_vicinity
+Playground,kids_family_residential
+Plaza,shopping
+Pool,sports_fitness
+Pool Hall,sports_fitness
+Pub,bars_nightlife
+Punjabi Restaurant,regular_restaurants
+Racetrack,sports_fitness
+Recording Studio,arts_culture_recreation
+Recreation Center,sports_fitness
+Rental Car Location,stores_daily_conveniences
+Residential Building (Apartment / Condo),kids_family_residential
+Resort,tourist_interest
+Rest Area,nature_view
+Restaurant,regular_restaurants
+River,nature_view
+Road,transport_vicinity
+Salad Place,sports_fitness
+Salon / Barbershop,stores_daily_conveniences
+Sandwich Place,cafe_fastfoods
+Scenic Lookout,nature_view
+Sculpture Garden,nature_view
+Seafood Restaurant,regular_restaurants
+Shoe Store,stores_daily_conveniences
+Shop & Service,stores_daily_conveniences
+Shopping Mall,shopping
+Smoke Shop,stores_daily_conveniences
+Snack Place,cafe_fastfoods
+Soccer Field,sports_fitness
+Soccer Stadium,sports_fitness
+Social Club,kids_family_residential
+Soup Place,regular_restaurants
+South American Restaurant,cuisine_restaurants
+South Indian Restaurant,regular_restaurants
+Spa,stores_daily_conveniences
+Spanish Restaurant,cuisine_restaurants
+Sporting Goods Shop,sports_fitness
+Sports Bar,sports_fitness
+Sports Club,sports_fitness
+Stadium,sports_fitness
+Steakhouse,cuisine_restaurants
+Supermarket,stores_daily_conveniences
+Sushi Restaurant,cuisine_restaurants
+Tailor Shop,stores_daily_conveniences
+Tea Room,cafe_fastfoods
+Tennis Court,sports_fitness
+Tex-Mex Restaurant,regular_restaurants
+Thai Restaurant,cuisine_restaurants
+Theater,arts_culture_recreation
+Theme Park,kids_family_residential
+Toll Plaza,transport_vicinity
+Toy / Game Store,stores_daily_conveniences
+Track,sports_fitness
+Track Stadium,sports_fitness
+Trail,nature_view
+Train,transport_vicinity
+Train Station,transport_vicinity
+Vegetarian / Vegan Restaurant,regular_restaurants
+Whisky Bar,bars_nightlife
+Wine Bar,bars_nightlife
+Wine Shop,stores_daily_conveniences
+Women's Store,stores_daily_conveniences
+Yoga Studio,sports_fitness
+Zoo,tourist_interest
